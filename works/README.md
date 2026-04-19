@@ -47,6 +47,8 @@
 ## 数据集说明
 
 ### 数据来源
+
+- 数据集下载地址https://www.modelscope.cn/datasets/xueqiu123/major_assignment
 - 灾害视频数据集，包含1541个视频
 - 涵盖亚洲、非洲、大洋洲等多个洲际分组
 - 标注内容：灾害类型、时间信息
